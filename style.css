@@ -24,19 +24,6 @@
     margin: 0;
 }
 
-.about-picture{
-    background: url("Photo by Pixabay from Pexels")center cover no-repeat fixed;
-  /*  background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed; */
-}
-
-#filler,#progress{
-    background: linear-gradient(to right, rgba(0,0,0,0),rgba(0,0,0,.7)) ,url("../img/pexels-photo-JellyFish.jpeg")center/cover no-repeat fixed;
-
-}
-
 .about-pictures {
     display: inline-block;
     float: right;
@@ -46,7 +33,7 @@
     display: inline-block;
 }
 
-#home, #about {
+#home, #about, #admissions, #carousel {
     background-color: #d3d3d3!important; 
     background-size: cover;
 }
